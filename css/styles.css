@@ -299,13 +299,14 @@ align-items: center;}
     color: #2e2f42;
    padding-top:32px ;
    text-align: left;
+   margin-bottom: 8px;
 }
 
 .general-descr{
    padding: 32px 16px;
    border: 1px solid #e7e9fc;
    border-top:none;
-   margin-bottom: 8px;
+  
 }
                             
     .caption-descr{
@@ -325,7 +326,10 @@ align-items: center;}
      padding: 100px 0;}
 
                             
-
+.logo{
+   display: inline-block;
+   margin-bottom: 16px;
+}
     .studio-two{
     font-family: "Raleway", sans-serif;
     font-weight: 700;
@@ -334,8 +338,7 @@ align-items: center;}
     letter-spacing: 0.03em;
     text-transform: uppercase;
     color:#f4f4fd;
-   display: inline-block;
-   margin-bottom: 16px;
+   
     }
                                     
     .footer-text{
