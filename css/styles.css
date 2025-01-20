@@ -323,13 +323,15 @@ align-items: center;}
 .logo-footer{
    display: inline-block;
    
+   
 }
    .studio-two{
+      display: inline-block;
+      margin-bottom: 16px;
       color: #fff;
       
    }
     .footer-text{
-      margin-top: 16px;
    max-width: 264px;
    color: #fff;
 }
