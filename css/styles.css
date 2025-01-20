@@ -320,14 +320,21 @@ align-items: center;}
     padding: 100px 0;}
 
                             
-.logo-footer{
+.footer-logo{
+   font-family: "Raleway", sans-serif;
+   color: #4d5ae5;
+   font-weight: 700;
+   font-size: 18px;
+   line-height: 1.17;
+   letter-spacing: 0.03em;
+   text-transform: uppercase;
    display: inline-block;
+   margin-bottom: 16px;
    
    
 }
    .studio-two{
-      display: inline-block;
-      margin-bottom: 16px;
+      
       color: #fff;
       
    }
